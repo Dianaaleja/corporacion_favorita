@@ -1,0 +1,2 @@
+lola filter=lfs diff=lfs merge=lfs -text
+lola/* filter=lfs diff=lfs merge=lfs -text
