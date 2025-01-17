@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/dianaterraza/Desktop/corporacion_favorita/mlflow_results/694996747944737169/c247402433ba43c1ae38a4e390d53275/artifacts
+deleted_time: 1737011832184
+end_time: 1736852499526
+entry_point_name: ''
+experiment_id: '694996747944737169'
+lifecycle_stage: deleted
+run_id: c247402433ba43c1ae38a4e390d53275
+run_name: arima_run
+run_uuid: c247402433ba43c1ae38a4e390d53275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736852498171
+status: 4
+tags: []
+user_id: dianaterraza
