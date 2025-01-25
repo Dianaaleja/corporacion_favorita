@@ -15,7 +15,7 @@ import datetime
 
 # Define local paths
 DATA_PATH = "/Users/dianaterraza/Desktop/Data/"  # Update with your actual local data path
-MODEL_PATH = "/Users/dianaterraza/Desktop/Data/model/"  # Update with your actual local model path
+MODEL_PATH = "/Users/dianaterraza/Desktop/Data/model/model.xgb"  # Update with your actual local model path
 
 def main():
     st.title("Corporación Favorita Sales Forecasting")
