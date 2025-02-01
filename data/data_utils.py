@@ -17,7 +17,7 @@ def load_data(data_path=DATA_PATH):
         "transactions": f"{data_path}transactions.csv",  # Path for transactions data
         "oil": f"{data_path}oil.csv",  # Path for oil prices data
         "holidays_events": f"{data_path}holidays_events.csv",  # Path for holidays and events data
-        "train": f"{data_path}train.csv"  # Path for training data
+        "train": f"{data_path}train.csv"  # Path for training data 
     }
 
     # Load each CSV file into a pandas DataFrame

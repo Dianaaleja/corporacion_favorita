@@ -15,7 +15,7 @@ FILE_PATHS = {
 }
 
 # Define the path for the model directory
-MODEL_PATH = "/Users/dianaterraza/Desktop/Data/model/"
+MODEL_PATH = "/Users/dianaterraza/Desktop/Notebooks_nuevos/model/"
 
 # File path for the xgboost model
 MODEL_FILES = {

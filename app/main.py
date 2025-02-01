@@ -1,12 +1,11 @@
 
-''''
+
 import sys 
 import os
-project_root = "/Users/main/Desktop/Notebooks_nuevos"
-if project_root not in sys.path:
-    sys.path.append(project_root)
 
-'''
+sys.path.append(os.getcwd())
+
+
 
 import streamlit as st
 from data.data_utils import load_data, preprocess_input_data
@@ -15,7 +14,7 @@ import datetime
 
 # Define local paths
 DATA_PATH = "/Users/dianaterraza/Desktop/Data/"  # Update with your actual local data path
-MODEL_PATH = "/Users/dianaterraza/Desktop/Data/model/model.xgb"  # Update with your actual local model path
+MODEL_PATH = "/Users/dianaterraza/Desktop/Notebooks_nuevos/model/"  # Update with your actual local model path
 
 def main():
     st.title("Corporación Favorita Sales Forecasting")

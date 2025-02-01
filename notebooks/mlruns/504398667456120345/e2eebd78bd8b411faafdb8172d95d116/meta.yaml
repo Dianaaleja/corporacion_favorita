@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dianaterraza/Desktop/Notebooks_nuevos/notebooks/mlruns/504398667456120345/e2eebd78bd8b411faafdb8172d95d116/artifacts
+end_time: 1738059797079
+entry_point_name: ''
+experiment_id: '504398667456120345'
+lifecycle_stage: active
+run_id: e2eebd78bd8b411faafdb8172d95d116
+run_name: XGBoost_store_item_features_run
+run_uuid: e2eebd78bd8b411faafdb8172d95d116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738059790789
+status: 3
+tags: []
+user_id: dianaterraza
