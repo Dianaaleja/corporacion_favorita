@@ -14,7 +14,11 @@ Streamlit Web App: Interactive interface for real-time forecasting visualization
 🏗️ Streamlit Application
 
 The Streamlit app provides an easy-to-use interface where users can:
+
 ✅ Upload custom sales data for prediction.
+
 ✅ Select forecasting models dynamically.
+
 ✅ Visualize historical sales trends and future predictions.
+
 ✅ Download forecast results for further analysis.
